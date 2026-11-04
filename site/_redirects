@@ -3,7 +3,6 @@
 /services                       /services.html   200
 /small-claims-court             /small-claims-court.html   200
 /traffic-tickets                /traffic-tickets.html   200
-/minor-criminal-offences        /minor-criminal-offences.html   200
 /provincial-offences            /provincial-offences.html   200
 /limited-scope-services         /limited-scope-services.html   200
 /paralegal-durham-region        /paralegal-durham-region.html   200
@@ -21,3 +20,5 @@
 
 # Removed page
 /fees                           /contact   301
+/minor-criminal-offences         /services  301
+/minor-criminal-offences.html    /services  301

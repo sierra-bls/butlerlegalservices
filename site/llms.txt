@@ -1,6 +1,6 @@
 # Butler Legal Services
 
-> Butler Legal Services is a paralegal practice in Ajax, Ontario, run by Sierra Walker, a paralegal licensed and regulated by the Law Society of Ontario. It represents individuals and small businesses across Ontario, virtually and in person, in Small Claims Court, traffic tickets and highway offences, and minor criminal and provincial offences. Limited scope and full representation are available. It is a sister company of Notable Notary (notary, apostille and translation, https://notablenotary.ca).
+> Butler Legal Services is a paralegal practice in Ajax, Ontario, run by Sierra Walker, a paralegal licensed and regulated by the Law Society of Ontario. It represents individuals and small businesses across Ontario, virtually and in person, in Small Claims Court, traffic tickets and highway offences, and provincial offences. Limited scope and full representation are available. It is a sister company of Notable Notary (notary, apostille and translation, https://notablenotary.ca).
 
 ## Practice areas
 - [Small Claims Court](https://butlerlegalservices.ca/small-claims-court): claims up to $35,000 in Ontario
@@ -8,7 +8,6 @@
 - [Speeding tickets](https://butlerlegalservices.ca/speeding-ticket-ontario)
 - [Stunt driving charges](https://butlerlegalservices.ca/stunt-driving-charge-ontario)
 - [Careless driving charges](https://butlerlegalservices.ca/careless-driving-charge-ontario)
-- [Minor criminal offences](https://butlerlegalservices.ca/minor-criminal-offences)
 - [Provincial offences](https://butlerlegalservices.ca/provincial-offences)
 - [Limited scope services](https://butlerlegalservices.ca/limited-scope-services)
 
