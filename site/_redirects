@@ -1,24 +1,53 @@
 # Clean URLs: /page serves page.html
 
-/services                       /services.html   200
-/small-claims-court             /small-claims-court.html   200
-/traffic-tickets                /traffic-tickets.html   200
-/provincial-offences            /provincial-offences.html   200
-/limited-scope-services         /limited-scope-services.html   200
-/paralegal-durham-region        /paralegal-durham-region.html   200
-/speeding-ticket-ontario        /speeding-ticket-ontario.html   200
-/stunt-driving-charge-ontario   /stunt-driving-charge-ontario.html   200
-/careless-driving-charge-ontario/careless-driving-charge-ontario.html   200
-/defend-small-claims-claim-ontario/defend-small-claims-claim-ontario.html   200
-/unpaid-invoice-small-claims-ontario/unpaid-invoice-small-claims-ontario.html   200
-/about                          /about.html   200
-/faq                            /faq.html   200
-/contact                        /contact.html   200
-/privacy-policy                 /privacy-policy.html   200
-/terms-conditions               /terms-conditions.html   200
-/thank-you                      /thank-you.html   200
+/speeding-ticket-ontario                 /speeding-ticket-ontario.html   200
+/stunt-driving-charge-ontario            /stunt-driving-charge-ontario.html   200
+/careless-driving-charge-ontario         /careless-driving-charge-ontario.html   200
+/distracted-driving-ticket-ontario       /distracted-driving-ticket-ontario.html   200
+/driving-while-suspended-ontario         /driving-while-suspended-ontario.html   200
+/driving-without-insurance-ontario       /driving-without-insurance-ontario.html   200
+/red-light-ticket-ontario                /red-light-ticket-ontario.html   200
+/stop-sign-ticket-ontario                /stop-sign-ticket-ontario.html   200
+/improper-turn-ticket-ontario            /improper-turn-ticket-ontario.html   200
+/following-too-closely-ticket-ontario    /following-too-closely-ticket-ontario.html   200
+/unsafe-lane-change-ticket-ontario       /unsafe-lane-change-ticket-ontario.html   200
+/fail-to-remain-ontario                  /fail-to-remain-ontario.html   200
+/novice-driver-tickets-ontario           /novice-driver-tickets-ontario.html   200
+/no-licence-ticket-ontario               /no-licence-ticket-ontario.html   200
+/licence-class-ticket-ontario            /licence-class-ticket-ontario.html   200
+/other-traffic-tickets-ontario           /other-traffic-tickets-ontario.html   200
+/fight-traffic-tickets                   /fight-traffic-tickets.html   200
+/demerit-points                          /demerit-points.html   200
+/why-fight-your-ticket                   /why-fight-your-ticket.html   200
+/how-it-works                            /how-it-works.html   200
+/ticket-guide                            /ticket-guide.html   200
+/service-area                            /service-area.html   200
+/fees                                    /fees.html   200
+/about                                   /about.html   200
+/faq                                     /faq.html   200
+/contact                                 /contact.html   200
+/privacy-policy                          /privacy-policy.html   200
+/terms-conditions                        /terms-conditions.html   200
+/thank-you                               /thank-you.html   200
 
-# Removed page
-/fees                           /contact   301
-/minor-criminal-offences         /services  301
-/minor-criminal-offences.html    /services  301
+# Retired pages (the site now focuses on traffic tickets)
+/services                                        /fight-traffic-tickets  301
+/services.html                                   /fight-traffic-tickets  301
+/traffic-tickets                                 /fight-traffic-tickets  301
+/traffic-tickets.html                            /fight-traffic-tickets  301
+/small-claims-court                              /fight-traffic-tickets  301
+/small-claims-court.html                         /fight-traffic-tickets  301
+/provincial-offences                             /fight-traffic-tickets  301
+/provincial-offences.html                        /fight-traffic-tickets  301
+/limited-scope-services                          /fight-traffic-tickets  301
+/limited-scope-services.html                     /fight-traffic-tickets  301
+/defend-small-claims-claim-ontario               /fight-traffic-tickets  301
+/defend-small-claims-claim-ontario.html          /fight-traffic-tickets  301
+/unpaid-invoice-small-claims-ontario             /fight-traffic-tickets  301
+/unpaid-invoice-small-claims-ontario.html        /fight-traffic-tickets  301
+/minor-criminal-offences                         /fight-traffic-tickets  301
+/minor-criminal-offences.html                    /fight-traffic-tickets  301
+/price-estimator                                 /fees  301
+/price-estimator.html                            /fees  301
+/paralegal-durham-region                         /service-area  301
+/paralegal-durham-region.html                    /service-area  301
